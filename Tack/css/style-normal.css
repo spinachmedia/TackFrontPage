@@ -49,11 +49,14 @@
 		background-attachment: scroll;
 	}
 
+
 /* CTA */
 
 	#cta {
 		padding: 4em;
 		background-attachment: scroll;
+        padding-top: 10px;
+        padding-bottom: 10px;
 	}
 
 /* Footer */
@@ -61,3 +64,7 @@
 	#footer {
 		padding: 4em;
 	}
+#map_canvas {
+    width: 100%; 
+    height: 650px;
+}

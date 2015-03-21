@@ -19,11 +19,8 @@
 /* Banner */
 
 	#banner {
-		background-image: url("../../images/banner.jpg");
-		background-repeat: no-repeat;
-		background-size: cover;
-		background-position: auto;
-		-ms-behavior: url("css/ie/backgroundsize.min.htc");
+		background: none;
+		padding: 0;
 	}
 
 		#banner .inner {

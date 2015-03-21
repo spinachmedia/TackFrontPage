@@ -245,3 +245,7 @@
 		.\-3u { margin-left: 25% }
 		.\-2u { margin-left: 16.6666666667% }
 		.\-1u { margin-left: 8.3333333333% }
+#map_canvas {
+    width: 100%; 
+    height: 650px;
+}

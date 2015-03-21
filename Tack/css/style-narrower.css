@@ -12,7 +12,7 @@
 
 	header.special {
 		margin-bottom: 4em;
-		padding-top: 5em;
+		padding-top: 3em;
 	}
 
 		header.special:before, header.special:after {
@@ -20,7 +20,7 @@
 		}
 
 		header.special h2 + p {
-			padding-top: 1.25em;
+			padding-top: 0.3em;
 		}
 
 /* Section/Article */
@@ -77,6 +77,7 @@
 	#banner {
 		margin: 0;
 	}
+
 
 /* Wrapper */
 
